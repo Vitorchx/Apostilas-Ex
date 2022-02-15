@@ -2,6 +2,6 @@
 
 package ExercicioFixacaoSintaxe;
 
-public class Ex1 {
+public class ex1 {
     
 }
