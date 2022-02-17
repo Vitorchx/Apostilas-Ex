@@ -2,10 +2,14 @@
 
 public class Exercicio2 {
     public static void main(String[] args) {
-        int i;
-        for(i= 0; i<= 1000; i++){
-            System.out.println(i);
-        }
+      		int valorInicial	=	0;
+			
+              for	(int	i	=	1;	i<=1000;	i++){
+						valorInicial	=	valorInicial	+	i;
+                         System.out.println(i);
+		    }
+													
+
 
 
         }
